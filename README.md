@@ -8,4 +8,5 @@ This repository is for practicing the GitHub flow.
 * Hopefully finding my next and final career!
 * I can be reached at chloejohnson620@gmail.com
   
-![Tiger Graphic](https://github.com/user-attachments/assets/3017f458-4e7e-474a-bd79-28ed6b7e40a2)
+
+![Tiger Graphic](https://github.com/user-attachments/assets/7454a1a0-1722-4b65-8e4b-790c78c51812)
