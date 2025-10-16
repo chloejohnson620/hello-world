@@ -2,7 +2,10 @@
 This repository is for practicing the GitHub flow.
 * I am chloejohnson620
 * I am interested in learning programming in real world scenarios
-* I am studying a couple of fields to determine my final career
+* I do prefer Python to Java, but I like learning multiple languages
+* I love animals and have been working with them for 15 years
+* But I am ready for something new and so studying multiple fields
+* Hopefully finding my next and final career!
 * I can be reached at chloejohnson620@gmail.com
   
 ![Tiger Graphic](https://github.com/user-attachments/assets/3017f458-4e7e-474a-bd79-28ed6b7e40a2)
