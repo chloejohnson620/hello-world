@@ -10,3 +10,6 @@ This repository is for practicing the GitHub flow.
   
 
 ![Tiger Graphic](https://github.com/user-attachments/assets/7454a1a0-1722-4b65-8e4b-790c78c51812)
+
+Fennec Fox:
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a6390808-1817-4864-9f5e-31cc99d5f337" />
